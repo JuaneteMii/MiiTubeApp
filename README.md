@@ -2,7 +2,7 @@
 Tu red social Nintendera favorita en castellano, ahora también disponible en tu pantalla de inicio.
 
 ¡Versión 1.1 ya disponible!
-https://github.com/JuaneteMii/MiiTubeApp/releases/download/v1.1-stable/MiiTube-1.2.apk
+https://github.com/JuaneteMii/MiiTubeApp/releases/download/v1.3/MiiTube-1.3.apk
 
 ![Web_Photo_Editor](https://user-images.githubusercontent.com/73709853/156198337-c8683363-3cb0-47c2-bf9c-5509258599a6.jpg)
 ![Web_Photo_Editor (1)](https://user-images.githubusercontent.com/73709853/156198339-7f7e1129-bcba-4c65-9d8c-8dfc491a4301.jpg)
